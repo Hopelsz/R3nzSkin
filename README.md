@@ -1,4 +1,4 @@
-<div></div>
+<!--<div>-->
  <div align="center">
 
    [![C++](https://img.shields.io/badge/Language-C%2B%2B-%23f34b7d.svg?style=plastic)](https://en.wikipedia.org/wiki/C%2B%2B)
@@ -43,8 +43,9 @@
 
 # Further optimizations
    If your CPU supports AVX / AVX2 / AVX-512 instruction set, you can enable it in project settings. This should result in more performant code, optimized for your CPU. Currently SSE2 instructions are selected in project settings.
+</div>   
 
 # Credits
    This program is an improved and updated version of the <a href="https://github.com/B3akers">B3akers</a>/<a href="https://github.com/B3akers/LeagueSkinChanger">LeagueSkinChanger</a> project.
    
-</div>
+<!--</div>-->
