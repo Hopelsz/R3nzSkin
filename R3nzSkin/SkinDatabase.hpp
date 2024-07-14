@@ -90,6 +90,7 @@ public:
 	};
 
 	std::vector<specialSkin> specialSkins{
+		{ FNV("Ahri"), 86, 86, { "Tier1", "Tier2", "Tier3" } },
 		{ FNV("Katarina"), 29, 36, { "Dagger 1", "Dagger 2", "Dagger 3", "Dagger 4", "Dagger 5", "Dagger 6" }},
 		{ FNV("Renekton"), 26, 32, { "Head off", "Head on", "Fins", "Ultimate" } },
 		{ FNV("MissFortune"), 16, 16, { "Scarlet fair", "Zero hour", "Royal arms", "Starswarm" } },
